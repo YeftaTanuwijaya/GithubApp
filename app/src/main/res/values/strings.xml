@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubAppFinal</string>
+    <string name="testing_nama">John Doe</string>
+    <string name="search_placeholder">Cari siapa kamu saat ini?</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="testing_username">johndoe</string>
+    <string name="testing_followers">0 Followers</string>
+    <string name="test_following">0 Following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_text">Dark Mode</string>
+    <string name="light_mode_text">Light Mode</string>
+</resources>
